@@ -10,6 +10,8 @@ This repository contains all articles links about best practices in JavaScript, 
 # Angular
 * Angular best of 2018 [ 👉👉](https://malcoded.com/posts/angular-best-of-2018/)
 
+# Dart
+* Scroll to widget [ 👉👉](https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5)
 
 License
 ----
