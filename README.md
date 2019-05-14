@@ -13,6 +13,9 @@ This repository contains all articles links about best practices in JavaScript, 
 * Building an enterprise-grade Angular project structure https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3
 * Building Side Effects in NGRX https://itnext.io/building-side-effects-in-ngrx-deb0d856096d
 * Angular @ViewChild: In-Depth Explanation https://blog.angular-university.io/angular-viewchild/
+* Comprehensive Guide to Higher-Order RxJs Mapping Operators: switchMap, mergeMap, concatMap https://blog.angular-university.io/rxjs-higher-order-mapping/
+* Angular :host, :host-context, ::ng-deep - Angular View Encapsulation https://blog.angular-university.io/angular-host-context/
+* Angular Advanced - A Video List About Several Advanced Angular Topics https://blog.angular-university.io/angular-advanced-course/
 
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
