@@ -9,6 +9,10 @@ This repository contains all articles links about best practices in JavaScript, 
 
 # Angular
 * Angular best of 2018 [ 👉👉](https://malcoded.com/posts/angular-best-of-2018/)
+* Transclusion, Injection and Procrastination [ 👉👉]https://blog.angularindepth.com/transclusion-injection-and-procrastination-8e1581c7a34e
+* Building an enterprise-grade Angular project structure [ 👉👉]https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3
+* Building Side Effects in NGRX [ 👉👉]https://itnext.io/building-side-effects-in-ngrx-deb0d856096d
+* Angular @ViewChild: In-Depth Explanation [ 👉👉]https://blog.angular-university.io/angular-viewchild/
 
 # Dart
 * Scroll to widget [ 👉👉](https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5)
