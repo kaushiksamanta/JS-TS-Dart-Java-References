@@ -20,6 +20,7 @@ This repository contains all articles links about best practices in JavaScript, 
 * How to build angular library - https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
 * Angular Decorators - https://angular-2-training-book.rangle.io/handout/features/decorators.html
 * Highly Scalable Folder Structure for Angular - https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7
+* Angular providers - https://medium.com/claritydesignsystem/making-full-use-of-angular-providers-part-1-14609a09514b
 
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
