@@ -17,7 +17,8 @@ This repository contains all articles links about best practices in JavaScript, 
 * Angular :host, :host-context, ::ng-deep - Angular View Encapsulation https://blog.angular-university.io/angular-host-context/
 * Angular Advanced - A Video List About Several Advanced Angular Topics https://blog.angular-university.io/angular-advanced-course/
 * Angular Unit Testing - https://codecraft.tv/courses/angular/unit-testing
-* How to build angular library https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
+* How to build angular library - https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
+* Angular Decorators - https://angular-2-training-book.rangle.io/handout/features/decorators.html
 
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
