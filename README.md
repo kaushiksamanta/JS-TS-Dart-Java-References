@@ -6,6 +6,7 @@ This repository contains all articles links about best practices in JavaScript, 
 # JavaScript
 * Object methods in javascript https://javascript.info/object-methods
 * ES6 Tricks and Tips https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c
+* Publishing a typescript library - https://medium.com/openmindonline/js-monday-17-publishing-a-typescript-library-59dd8200f80d
 
 # Angular
 * Angular best of 2018 https://malcoded.com/posts/angular-best-of-2018/
