@@ -22,6 +22,7 @@ This repository contains all articles links about best practices in JavaScript, 
 * Angular Decorators - https://angular-2-training-book.rangle.io/handout/features/decorators.html
 * Highly Scalable Folder Structure for Angular - https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7
 * Angular providers - https://medium.com/claritydesignsystem/making-full-use-of-angular-providers-part-1-14609a09514b
+* Understanding ViewChildren, ContentChildren, and QueryList in Angular - https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e
 
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
