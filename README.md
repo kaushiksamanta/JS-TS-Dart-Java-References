@@ -28,7 +28,6 @@ This repository contains all articles links about best practices in JavaScript, 
 * Debugging nodejs in docker - https://blog.theodo.com/2018/10/setting-debugger-node-js-docker-vs-code/
 * Docker for nodejs in development - https://dev.to/alex_barashkov/using-docker-for-nodejs-in-development-and-production-3cgp
 * Docker multistage builds - https://medium.com/@avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-907e2be3008d
-* 
 
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
