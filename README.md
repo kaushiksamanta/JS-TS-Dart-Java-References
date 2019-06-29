@@ -24,6 +24,12 @@ This repository contains all articles links about best practices in JavaScript, 
 * Angular providers - https://medium.com/claritydesignsystem/making-full-use-of-angular-providers-part-1-14609a09514b
 * Understanding ViewChildren, ContentChildren, and QueryList in Angular - https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e
 
+# Docker
+* Debugging nodejs in docker - https://blog.theodo.com/2018/10/setting-debugger-node-js-docker-vs-code/
+* Docker for nodejs in development - https://dev.to/alex_barashkov/using-docker-for-nodejs-in-development-and-production-3cgp
+* Docker multistage builds - https://medium.com/@avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-907e2be3008d
+* 
+
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
 
