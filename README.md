@@ -32,7 +32,7 @@ This repository contains all articles links about best practices in JavaScript, 
 * Angular with docker - https://medium.com/@tiangolo/angular-in-docker-with-nginx-supporting-environments-built-with-multi-stage-docker-builds-bb9f1724e984
 * Debugging nodejs in docker - https://medium.com/tkssharma/debugging-node-js-app-on-docker-container-remote-debugging-c4b02875d328
 * Dockerizing angular app - https://mherman.org/blog/dockerizing-an-angular-app/
-
+* Docker-angular-node-sass issue- https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
 # Dart
 * Scroll to widget https://gist.github.com/collinjackson/50172e3547e959cba77e2938f2fe5ff5
 
